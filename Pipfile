@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+matplotlib = "*"
+pyqt5 = "*"
+tqdm = "*"
+celluloid = "*"
+chess = "*"
+pygame = "*"
+ipykernel = "*"
+jupyter = "*"
+sklearn = "*"
+pandas = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
