@@ -1,10 +1,5 @@
 # Chess-Engine
 
-<i> Note: Please star the repo if you find this project useful. </i>
-
-<hr>
-
-
 ## Description
 <p align = "justify">
 Our main goal to achieve towards the end of this project is to come up with 3 evolutionary algorithms namely Genetic Algorithm, Differential Evolution and CMA-ES for optimizing the parameters of the evaluation function in our chess engine. In addition, we also want to implement an efficient search algorithm to come up with the best move in a given position given the evaluation provided by the evaluation function. This is necessary as an engine may have the best evaluation algorithm, however without a quick search algorithm(one that prunes unfavourable positions), the engine would take too long to play a move.
